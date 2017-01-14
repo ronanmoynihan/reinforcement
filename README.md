@@ -1,5 +1,8 @@
 ### Model-Based RL 
-Adapting the [cartpole tutorial](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99#.azb6u5164) to work with Flappy Bird.  
+Adapting the [cartpole tutorial](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99#.azb6u5164) to work with [Flappy Bird](https://gym.openai.com/envs/FlappyBird-v0).  
+
+### Install
+- https://github.com/lusob/gym-ple
 
 ### Game State
 The cartpole state consists of 4 continous features. Flappy Bird currently uses 5.
